@@ -22,11 +22,11 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 # Tutorial
 
 1) git clone https://github.com/Tandelajr/PGR_ATTACK.git
-2) cd PGR_ATTACK && chmod +x 
-3) No navegador (Firefox) no Whatsapp faça a combinação te teclas Ctrl + Shift + i  se preferir aperte F12 (Vai abrir a aba Dev Tools)
-4) Dev Tools encontre a aba Console e logo em baixo, você encontrará uma linha 
-5) Caso você baixou o Script arraste o arquivo para essa linha || Caso você copiou, cole na linha
-6) Agora só apertar *ENTER* para executar o script, e vai começar a enviar o script todo para o usuario (ATT: O telefone do burlador pode travar ).
+2) cd PGR_ATTACK
+3) python3 pgr_brute.py
+4) URL: Inserir link do formulario de Phising
+5) Email: Inserir o email da conta do burlador identificado com o Dev Tools dos navegadores (Google Chrome e Firefox )
+6) Nº de disparos: Pressione *ENTER*
 
 
 <div align="center">
