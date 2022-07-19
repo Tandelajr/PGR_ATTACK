@@ -61,7 +61,7 @@ try:
 except:
     print("Porfavor verifica sua conexão de internet!!")
 
-with open("email.txt", "r") as passwords:
+with open("email.txt", "senha.txt") as passwords:
     bruteCracking(username,url,error)
 
 print("[!!] ATTACK feito")
