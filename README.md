@@ -30,7 +30,7 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/179636264-e998f2cc-1e7f-449c-9d87-8c98a926d23a.jpg)" width="900px" />
+<img src="https://user-images.githubusercontent.com/67243528/179636264-e998f2cc-1e7f-449c-9d87-8c98a926d23a.jpg" width="900px" />
 </div>
 
 <p align="center">
