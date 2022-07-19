@@ -8,8 +8,8 @@
 
 
 </span>
-Este *Exploit* foi criado para desencorajar burladores pelo mau uso de *Plataformas financeiras*.
-O Exploit realiza um ataque de brute-force, enviando informações falsas gerada por uma *Wordlist* aos formularios de Phising (Multicaixa Express, BAI DIRECTO, SOL NET, BFA NET.........)
+Este Exploit foi criado para desencorajar burladores pelo mau uso de Plataformas Financeiras.
+O Exploit realiza um ataque de brute-force, enviando informações falsas gerada por uma Wordlist aos formularios de Phising (Multicaixa Express, BAI DIRECTO, SOL NET, BFA NET.........)
 
 
 <p></p>
