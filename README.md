@@ -42,11 +42,11 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 </p>
 
 <p align="center">
-  👩‍💻  Stack: <strong>Frontend JSP, JavaScript, HTML, CSS. </strong>
+  👩‍💻  Stack: <strong>Python, Python2, Python3 </strong>
 </p>
 
 <p align="center">
-  🚀  Learning: <strong>Java, JSP, JavaScript, Typescript.</strong>
+  🚀  Learning: <strong>Python3</strong>
 </p>
 
 <p align="center">
