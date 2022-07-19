@@ -1,7 +1,7 @@
 ######################################################################################################
-# Title: Brute force                                                                                 #
-# Author: Tanvir Hossain Antu                                                                        #
-# Github : https://github.com/Antu7                                                                  #
+# Titulo: PGR ATTACK                                                                                 #
+# Author: Abilio Tandela                                                                             #
+# Website : https://abiliotandela.me                                                                 #
 ######################################################################################################
 
 print (""" 
