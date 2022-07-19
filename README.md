@@ -74,7 +74,7 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 
 
 <div align="center">
-<h2>⭐Vamos codificar!!!</h2>
+<h2>⭐Vamos Programar!!</h2>
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600px" />
 </div>
 
