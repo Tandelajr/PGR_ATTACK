@@ -1,15 +1,15 @@
 
 <span align="center">
 
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> PGR Whatsapp Script</h2>
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> PGR ATTACK</h2>
 
 </span>
 
 
 
 </span>
-Este Script foi criado para desencorajar burladores pelo mau uso de plataformas financeiras .
-O script contém o discurso do Presidente JLO que fala sobre boas práticas e conduta do cidadão Angolano
+Este *Exploit* foi criado para desencorajar burladores pelo mau uso de *Plataformas financeiras*.
+O Exploit realiza um ataque de brute-force, enviando informações falsas gerada por uma *Wordlist* aos formularios de Phising (Multicaixa Express, BAI DIRECTO, SOL NET, BFA NET.........)
 
 
 <p></p>
@@ -21,8 +21,8 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 
 # Tutorial
 
-1) Baixe o arquivo PGR_WHATSAPP.js , ou copie tudo.
-2) Abra o Whatsapp e entre em uma conversa.
+1) git clone https://github.com/Tandelajr/PGR_ATTACK.git
+2) cd PGR_ATTACK && chmod +x 
 3) No navegador (Firefox) no Whatsapp faça a combinação te teclas Ctrl + Shift + i  se preferir aperte F12 (Vai abrir a aba Dev Tools)
 4) Dev Tools encontre a aba Console e logo em baixo, você encontrará uma linha 
 5) Caso você baixou o Script arraste o arquivo para essa linha || Caso você copiou, cole na linha
@@ -30,7 +30,7 @@ Mais informações https://web.whatsapp.com/send?phone=244923469242&text&app_abs
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/67243528/179631572-c85835bb-9987-478a-aa1a-559e7f944f7b.jpg" width="900px" />
+<img src="https://user-images.githubusercontent.com/67243528/179636264-e998f2cc-1e7f-449c-9d87-8c98a926d23a.jpg)" width="900px" />
 </div>
 
 <p align="center">
