@@ -52,16 +52,16 @@ try:
             if error in str(response.content):
                 pass
             elif "CSRF" or "csrf" in str(response.content):
-                print("CSRF Token Detected!! BruteF0rce Not Working This Website.")
+                print("CSRF detectado!! PGR não vai funcionar neste website/formulario")
                 exit()
             else:
                 print("Attack ---> " + username)
                 print("Attack ---> " + password)
                 exit()
 except:
-    print("Some Error Occurred Please Check Your Internet Connection !!")
+    print("Porfavor verifica sua conexão de internet!!")
 
 with open("email.txt", "r") as passwords:
     bruteCracking(username,url,error)
 
-print("[!!] password not in list")
+print("[!!] ATTACK feito")
